@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">login</string>
+    <string name="label">emaillabel</string>
+    <string name="Email">Email</string>
+    <string name="password">Passwrod</string>
+    <string name="enterpassword">Password</string>
+    <string name="enteremail">Enter Email</string>
+    <string name="login">Login</string>
+    <string name="creatAccount">Create Account</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="EnterName">Enter Name</string>
+    <string name="EnterLastName">Enter Last Name</string>
+</resources>
